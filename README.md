@@ -47,9 +47,9 @@
 
     ```bash
     cd /opt
-    sudo git clone https://github.com/<ваш-username>/zoo_totem_bot.git
-    sudo chown -R $USER:$USER zoo_totem_bot
-    cd zoo_totem_bot
+    sudo git clone https://github.com/diseleznyow99/TaskZooPython
+    sudo chown -R $USER:$USER TaskZooPython
+    cd TaskZooPython
     ```
 
 3. **Создайте и активируйте виртуальное окружение, установите зависимости:**
